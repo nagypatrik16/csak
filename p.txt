@@ -1,0 +1,11 @@
+git init
+git add *
+git commit -m "első commit"
+git remote add origin https://github.com/nagypatrik16/csak.git
+git push -u origin master
+
+
+
+git add *
+git commit -m "masodik commit"
+git push -u origin master
